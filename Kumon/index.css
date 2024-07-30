@@ -1,0 +1,40 @@
+body {
+    padding: 50px;
+    font-family: 'sans-serif';
+    background: url(kum.jpg);
+    background-size: 100%;
+}
+
+h1 {
+    font-family: fantasy;
+    text-align: center;
+    font-size: 3em;
+}
+
+.container {
+    margin: auto;
+    width: 40%;
+    padding: 20px;
+    background-color: lightblue;
+}
+
+.firstpart input {
+    display: block;
+    width: 70%;
+    height: 2rem;
+    padding: 2px;
+    margin: 10px 10px 10px 0px;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+input[type="submit"] {
+  width: 60%;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: lightblue;
+  border-color: white;
+  min-width: 300px;
+}
